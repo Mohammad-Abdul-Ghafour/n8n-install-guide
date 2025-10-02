@@ -9,12 +9,14 @@
 4. Verify: run `node -v` and `npm -v` in CMD
 
 **macOS:**  
+1. Go to [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+2. Choose from dropdown macOS
 1. Download LTS macOS Installer (.pkg)  
 2. Run installer  
 3. Verify: run `node -v` and `npm -v` in Terminal
 
 **Linux:**  
-1. Open terminal  
+1. Open Terminal  
 2. Ubuntu/Debian: `sudo apt install nodejs npm -y`  
 3. Verify: run `node -v` and `npm -v` in Terminal
 
