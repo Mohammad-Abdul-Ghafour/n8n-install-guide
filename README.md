@@ -3,7 +3,7 @@
 ## Step 1: Install Node.js (includes npm)
 
 **Windows:**  
-1. Go to https://nodejs.org/en/download/  
+1. Go to [https://nodejs.org/en/download/](https://nodejs.org/en/download/)  
 2. Download the LTS Windows Installer (.msi)  
 3. Run installer with default settings  
 4. Verify: run `node -v` and `npm -v` in CMD
